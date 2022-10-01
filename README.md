@@ -13,3 +13,6 @@
 
 ### Ejecución ejercicio5
 ![ejercicio5](https://user-images.githubusercontent.com/100691940/193430699-1e643cf0-e853-4b30-924a-8d33e1218f07.PNG)
+
+### Ejecución ejercicio6
+![ejercicio6](https://user-images.githubusercontent.com/100691940/193430739-271d5f0a-b6d6-43d1-801e-d2ccfed736d6.PNG)
