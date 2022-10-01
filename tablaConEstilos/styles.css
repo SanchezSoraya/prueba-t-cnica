@@ -1,0 +1,94 @@
+p {
+  margin: 0;
+  padding: 0;
+}
+.lista {
+  width: 100%;
+  height: 100%;
+}
+.titulos {
+  background-color: rgba(224, 227, 235, 255);
+}
+.titulos th {
+  padding: 10px;
+  color: #446c92;
+}
+.titulos th:hover {
+  color: black;
+}
+
+.descripcion td {
+  padding: 10px;
+  text-align: justify;
+
+  border-bottom: 1px solid #ebebeb;
+}
+.numerosNegrita {
+  color: blue;
+  font-weight: bold;
+}
+
+img {
+  width: 30px;
+  height: 30px;
+}
+.textoDuedate {
+  border: 1px solid orange;
+  border-radius: 12px;
+  width: 70%;
+  background-color: #efcba2;
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+.textoDuedateDos {
+  border: 1px solid #ffb0a5;
+  border-radius: 12px;
+  width: 73%;
+  background-color: #ffe2de;
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+.textoDuedateTres {
+  border: 1px solid #6fcbec;
+  border-radius: 12px;
+  width: 40%;
+  background-color: #c9ecfe;
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+table {
+  border-collapse: collapse;
+  border-right: 2px solid #ebebeb;
+}
+tr {
+  border-bottom: 1px solid #ebebeb;
+}
+
+th,
+td {
+  border: none;
+}
+
+th:nth-child(1) {
+  border-left: 3px grey solid;
+}
+
+td:nth-child(1) {
+  border-left: 3px #eea346 solid;
+}
+table tr:nth-child(3) td:nth-child(1) {
+  border-left: 3px #ff7e6d solid;
+}
+table tr:nth-child(5) td:nth-child(1) {
+  border-left: 3px #5bc4e8 solid;
+}
+table tr:nth-child(8) td:nth-child(1) {
+  border-left: 3px #ff7e6d solid;
+}
+table tr:nth-child(10) td:nth-child(1) {
+  border-left: 3px #ff7e6d solid;
+}
+
+.flex {
+  display: flex;
+}
